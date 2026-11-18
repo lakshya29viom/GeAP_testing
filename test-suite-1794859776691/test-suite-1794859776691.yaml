@@ -1,0 +1,26 @@
+id: test-suite-1794859776691
+name: GeAP_testing
+description: ''
+tags:
+- '@regression_'
+- '@smoke_'
+- '@regression'
+- '@ui'
+- '@smoke'
+- '@setup'
+- '@p0'
+- '@ready'
+- '@auctioneer'
+- '@p1'
+- '@check-locator'
+- '@p2'
+- '@needs-data'
+- '@added'
+- '@needs-screen'
+- '@admin'
+- '@changes-data'
+- '@bidder'
+environments: {}
+featureFiles:
+- features/test_1.feature
+- features/all.feature

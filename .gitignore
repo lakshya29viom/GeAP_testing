@@ -1,0 +1,13 @@
+
+# Test output and reports (auto-added by Studio)
+test-output/
+reports/
+extent-reports/
+screenshots/
+allure-results/
+target/
+execution_*/
+*.log
+step_metrics.db
+.DS_Store
+.env
